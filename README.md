@@ -10,7 +10,7 @@
 
 ###
 
-<picture>
+<picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/M-Hatem98/M-Hatem98/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/M-Hatem98/M-Hatem98/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/M-Hatem98/M-Hatem98/output/github-contribution-grid-snake.svg">
@@ -74,5 +74,10 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=plastic" height="35" alt="instagram logo"  />
   </a>
 </div>
+
+
+###
+<div align="center">
+<img src="https://profile-counter. glitch.me/M-Hatem98/count.svg?" /> </div>
 
 ###
