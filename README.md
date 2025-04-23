@@ -10,7 +10,7 @@
 
 ###
 
-<img align="left" height="205" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2JtNWU0YjZ2cTltb2NiazM1OGl3MW5tN3V6NHdtb2JzbHNoYjFseCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
+<img src="https://raw.githubusercontent.com/M-Hatem98/M-Hatem98/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -48,6 +48,8 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
   <a href="www.linkedin.com/in/m-hatem98" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="35" alt="linkedin logo"  />
@@ -68,15 +70,5 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=plastic" height="35" alt="instagram logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/M-Hatem98/M-Hatem98/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/M-Hatem98/M-Hatem98/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/M-Hatem98/M-Hatem98/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
